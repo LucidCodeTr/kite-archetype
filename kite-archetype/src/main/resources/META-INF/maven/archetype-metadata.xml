@@ -20,16 +20,10 @@
 				<include>**/*.java</include>
 			</includes>
 		</fileSet>
-		<fileSet filtered="true" encoding="UTF-8" packaged="false">
-			<directory>src/main/webapp/css</directory>
-			<includes>
-				<include>**/*.css</include>
-			</includes>
-		</fileSet>
 
 		<!-- CSS -->
 		<fileSet filtered="true" encoding="UTF-8" packaged="false">
-			<directory>src/main/webapp/css</directory>
+			<directory>src/main/webapp/style</directory>
 			<includes>
 				<include>**/*.css</include>
 			</includes>
@@ -37,7 +31,7 @@
 
 		<!-- HTML -->
 		<fileSet filtered="true" encoding="UTF-8" packaged="false">
-			<directory>src/main/webapp/html</directory>
+			<directory>src/main/webapp/pages</directory>
 			<includes>
 				<include>**/*.html</include>
 			</includes>
@@ -45,7 +39,7 @@
 
 		<!-- IMG -->
 		<fileSet filtered="true" encoding="UTF-8" packaged="false">
-			<directory>src/main/webapp/img</directory>
+			<directory>src/main/webapp/images</directory>
 			<includes>
 				<include>**/*.jpg</include>
 				<include>**/*.jpeg</include>
@@ -56,7 +50,7 @@
 
 		<!-- JS -->
 		<fileSet filtered="true" encoding="UTF-8" packaged="false">
-			<directory>src/main/webapp/js</directory>
+			<directory>src/main/webapp/code</directory>
 			<includes>
 				<include>**/*.js</include>
 			</includes>
