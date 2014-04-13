@@ -7,4 +7,56 @@
 	<version>1.0.3</version>
 	<packaging>jar</packaging>
 
+	<name>Kite Archetype</name>
+	<description>A Maven Archetype that allows users to create a Fresh Kite project</description>
+	<url>http://www.lucidcode.com.tr</url>
+
+	<licenses>
+		<license>
+			<name>Apache License, Version 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+			<distribution>repo</distribution>
+			<comments>A business-friendly OSS license</comments>
+		</license>
+	</licenses>
+
+	<scm>
+		<url>ttps://github.com/LucidCodeTr/kite-archetype</url>
+		<connection>scm:svn:https://github.com/LucidCodeTr/kite-archetype.git</connection>
+	</scm>
+
+	<developers>
+		<developer>
+			<id>omerg</id>
+			<name>Omer Gurarslan</name>
+			<email>omerg@lucidcode.com.tr</email>
+			<url>http://www.lucidcode.com.tr/#!about/cgvz</url>
+			<organization>LucidCode</organization>
+			<organizationUrl>http://www.lucidcode.com.tr</organizationUrl>
+			<roles>
+				<role>architect</role>
+				<role>developer</role>
+			</roles>
+			<timezone>+2</timezone>
+			<properties>
+				<picUrl>http://tinyurl.com/pltz7ss</picUrl>
+			</properties>
+		</developer>
+		<developer>
+			<id>alpera</id>
+			<name>Alper Arabaci</name>
+			<email>alper.arabaci@lucidcode.com.tr</email>
+			<url>http://www.lucidcode.com.tr/#!about/cgvz</url>
+			<organization>LucidCode</organization>
+			<organizationUrl>http://www.lucidcode.com.tr</organizationUrl>
+			<roles>
+				<role>architect</role>
+				<role>developer</role>
+			</roles>
+			<timezone>+2</timezone>
+			<properties>
+			</properties>
+		</developer>
+	</developers>
+
 </project>
