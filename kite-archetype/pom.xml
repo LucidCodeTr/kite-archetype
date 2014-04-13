@@ -29,6 +29,7 @@
 	<scm>
 		<url>ttps://github.com/LucidCodeTr/kite-archetype</url>
 		<connection>scm:svn:https://github.com/LucidCodeTr/kite-archetype.git</connection>
+		<developerConnection>scm:svn:https://github.com/LucidCodeTr/kite-archetype.git</developerConnection>
 	</scm>
 
 	<developers>
