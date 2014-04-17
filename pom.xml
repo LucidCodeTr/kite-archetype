@@ -9,7 +9,7 @@
 
 	<groupId>tr.com.lucidcode</groupId>
 	<artifactId>kite-archetype</artifactId>
-	<version>1.0.8</version>
+	<version>1.0.9-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>Kite Archetype</name>
